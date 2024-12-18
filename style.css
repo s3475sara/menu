@@ -1,0 +1,88 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+*{
+    font-family: "Lobster", sans-serif;
+}
+header{
+    margin-top: 100px;
+}
+.food{
+    display: flex;
+    justify-content: space-around;
+}
+span{
+    color: darkgoldenrod;
+}
+.head{
+font-size: 45px;
+font-weight: 700;
+}
+.para{
+    font-size: 18px;
+    color: #757575;
+}
+.b{
+    background-color: darkgoldenrod;
+    padding: 10px;
+    border: none;
+    color: white;
+    margin-top: 50px;
+}
+.our{
+    margin-top: 100px;
+    display: flex;
+    margin-left: 100px;
+}
+.our2{
+    margin-left: 300px;
+}
+.menu{
+    text-align: center;
+    margin-top: 100px;
+}
+.fast{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.bb{
+    margin-bottom: 50px;
+}
+.fastfood{
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    box-shadow:10px 10px 10px 10px rgba(0, 0, 0, 0.2);
+}
+.foot{
+    display: flex;
+    margin: 50px 100px;
+    align-items: center;
+    justify-content: space-between;
+    background-color: antiquewhite;
+    padding: 50px;
+}
+.sa{
+margin-left: 200px;
+}
+.ju{
+margin-right: 200px;
+margin-top: 50px;
+}
+.aa{
+    padding: 10px;
+    border: 2px solid darkgoldenrod;
+}
+.jjs{
+    padding: 10px;
+    border: 2px solid darkgoldenrod;
+}
+.bbb{
+    background-color: darkgoldenrod;
+    padding: 10px;
+    border: none;
+    color: white;
+}
+.pp{
+    color: #757575;
+}
