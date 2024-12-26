@@ -86,3 +86,22 @@ margin-top: 50px;
 .pp{
     color: #757575;
 }
+.hidden{
+    display: none;
+}
+@media only screen and (max-width:600){
+    .food{
+        flex-direction: column;
+        margin-left: 20px;
+    }
+    .our{
+        flex-direction: column;
+        margin-left: opx;
+    }
+    .our2{
+        margin-left: 0px;
+    }
+    .b{
+        margin-top: 20px;
+    }
+}
